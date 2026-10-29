@@ -1,0 +1,6 @@
+{
+  "name": "TI-MADI Chemistry ITS - Lesson 1: Boyle's Law",
+  "description": "Technology-Integrated Metacognitive Argument-Driven Inquiry (TI-MADI) Intelligent Tutoring System for Grade 10 Chemistry students exploring Boyle's Law with virtual simulations, digital argumentation board, and metacognitive checkpoints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
